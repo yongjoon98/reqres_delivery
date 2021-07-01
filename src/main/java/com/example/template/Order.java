@@ -1,6 +1,6 @@
 package com.example.template;
 
-public class Order {
+public class Order { 
 
     private Long id;
     private Long productId;
